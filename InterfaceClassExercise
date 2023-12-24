@@ -1,0 +1,22 @@
+ממש פרוייקט לשליטה על מוצרים חשמליים:
+
+Interface -Smart device
+•	Boolean isWorking()
+
+Classes - Computer, Smartphone, Smart Watch:
+
+Computer:
+•	Int - screenSize – 17-49
+•	String-  core
+
+Smartphone:
+•	Int - numbersOfCameras 
+
+Smart Watch:
+•	Boolean – NFT
+
+Implement in the main class- ipone13, galaxy10, aipadAir
+
+Etgar: Create also interface –
+GPS:
+•	getCoordinates()
