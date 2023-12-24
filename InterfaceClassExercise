@@ -15,7 +15,8 @@ Smartphone:
 Smart Watch:
 •	Boolean – NFT
 
-Implement in the main class- ipone13, galaxy10, aipadAir
+create also classes - ipone13, galaxy10, aipadAir - that implements the classes Computer, Smartphone and Smart Watch.
+
 
 Etgar: Create also interface –
 GPS:
