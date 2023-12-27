@@ -1,0 +1,42 @@
+1.	What is wrong with this block of code?
+package com.company;
+
+public interface A {
+    private int i;
+}
+
+2.	Can a class implement more than one interfaces?
+
+3.	What is wrong with the following interface?
+public interface SomethingIsWrong {
+    void aMethod(int aValue){
+        System.out.println("Hi Mom");
+    }
+   }
+
+4.	write java program:
+Interface -SuperHero
+•	String SuperPower()
+•	Boolean checkIfThereIsPowerLeft()
+•	Void Fight() 
+
+Classes -SuperMan, SpiderMan, IronMan:
+
+SuperMan:
+•	boolean – fly
+•	float – xRayVision
+
+SpiderMan:
+•	int - Cobwebs
+
+IronMan:
+•	Boolean – armor
+
+Implement in the main class- Peter Parker(spiderman), Clark Kent (superman), Anthony Edward (ironman).
+
+Super Etgar:
+- In each superhero class create -  boolean ArrayOfPower [] which holds 10 true values. The array in size of the number of powers each hero has (5).
+- in each fight() method that exist in every superhero class – implement a function that turn one value in ArrayOfPower [] to false.
+When all values in array equals to false the super hero died. 
+
+
